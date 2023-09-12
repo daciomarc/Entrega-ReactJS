@@ -1,11 +1,16 @@
-import "./App.css";
+import './App.css'
+import Navbar from "./components/Navbar/Navbar.jsx";
+import ItemListContainer from "./components/ItemListContainer/ItemListContainer.jsx";
 
 function App() {
-  return (
-    <div>
-      <p>Hola Dacio</p>
-    </div>
-  );
+    return (
+        <>
+            <Navbar />
+            <main className='container'>
+                <ItemListContainer greeting='Bienvenido a Shoes Santiago' />
+            </main>
+        </>
+    );
 }
 
-export default App;
+export default App

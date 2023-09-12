@@ -1,8 +1,5 @@
-# React + Vite
+Repositorio perteneciente al proyecto desarrollado durante la cursada del curso de ReactJS dictado por Coderhouse.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El mismo emplea Vite en conjunto con React para la creación de una tienda en línea, integrando pasarela de pago.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Alumno: Fausto Castro Olivera
